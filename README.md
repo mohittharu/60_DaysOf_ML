@@ -1,5 +1,7 @@
+
 ## Learning_ML
-## ------------------
+
+------------------
 
 # Resources
 
@@ -38,7 +40,7 @@
 
 
 
-
+-------------------------------------------------------------------------------------------------------------
 
 # Day 01: Basics of Linear Algebra
 
@@ -56,3 +58,4 @@ linear algebra is used to represent data, perform matrix operations, and solve e
 - Dot and Cross Product: Similarity (e.g., in SVMs) and vector transformations.
 
 Slow progress right?? but consistent wins the race!
+
