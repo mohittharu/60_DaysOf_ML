@@ -48,12 +48,11 @@ linear algebra is used to represent data, perform matrix operations, and solve e
 
 - Scalars, Vectors, Matrices, Tensors: Basic data structures for ML.
 
-![Day 01: Basics of Linear Algebra]
-![alt text](image.png)
+![Day 01: Basics of Linear Algebra](images/example_of_tensor.png)
 
 - Linear Combination and Span: Representing data points as weighted sums. Used in Linear Regression and neural networks.
 
-![Linear Combination and Span](images\3dlinear_transformation.png)
+![Linear Combination and Span](images/3dlinear_transformation.png)
 
 - Determinants: Matrix invertibility, unique solutions in linear regression.
 - Dot and Cross Product: Similarity (e.g., in SVMs) and vector transformations.
