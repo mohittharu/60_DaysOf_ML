@@ -23,6 +23,9 @@
 
 | Days  | Topics                                                                 | Resources |
 |------:|------------------------------------------------------------------------|-----------|
+
+| [Day01_11](Day01_11)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+
 | [Day12](Day12)   | Basics of Linear Algebra                                              | [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [Day13](Day13)   | Decomposition, Derivation, Integration, and Gradient Descent           | [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [Day14](Day14)   | Supervised Learning, Regression and classification                     | [Machine Learning Specialization]|
@@ -62,4 +65,7 @@ linear algebra is used to represent data, perform matrix operations, and solve e
 - Dot and Cross Product: Similarity (e.g., in SVMs) and vector transformations.
 
 Slow progress right?? but consistent wins the race!
+-----------------------------------------------------
+
+# Day 13: 
 
