@@ -1,5 +1,5 @@
 
-## Learning_ML
+# Learning_ML
 
 ------------------
 
@@ -17,7 +17,7 @@
 
 
 
-## Progress
+
 
 ## Progress
 
@@ -37,18 +37,22 @@
 
 
 
+-------------------------------------
+## Day 01 t0  Day 11: Python Libraries
+- Numpy
+- Pandas
+- Matplotlib
+- str_Method
 
+--------------------------------------
 
-
--------------------------------------------------------------------------------------------------------------
-
-# Day 01: Basics of Linear Algebra
+# Day 12: Basics of Linear Algebra
 
 linear algebra is used to represent data, perform matrix operations, and solve equations in algorithms like regression, pca, and neural networks.
 
 - Scalars, Vectors, Matrices, Tensors: Basic data structures for ML.
 
-![Day 01: Basics of Linear Algebra](images/example_of_tensor.png)
+![Day 12: Basics of Linear Algebra](images/example_of_tensor.png)
 
 - Linear Combination and Span: Representing data points as weighted sums. Used in Linear Regression and neural networks.
 
