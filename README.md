@@ -70,7 +70,7 @@ Slow progress right?? but consistent wins the race!
 
 - Eigenvalues and Eigenvectors: PCA, SVD, feature extraction; eigenvalues capture variance.
 
-![Function and Gradient](images\function_gradient.png)
+![Function and Gradient](images/function_gradient.png)
 
 Notes Here
 
