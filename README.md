@@ -27,13 +27,26 @@
 | [Day01](Day01)   | Basics of Linear Algebra                                              | [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [Day02](Day02)   | Decomposition, Derivation, Integration, and Gradient Descent           | [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [Day03](Day03)   | Supervised Learning, Regression and classification                     | [CampusX](https://www.youtube.com/watch?v=81ymPYEtFOw&t=498s)|
-| [Day04](Day04)   | Unsupervised Learning: Clustering and dimensionality reduction         | [Machine Learning Specialization]|
-| [Day05](Day05)   | Univariate Linear Regression                                           | [Machine Learning Specialization]|
-| [Day17](Day17)   | Cost Functions                                                        | [Machine Learning Specialization]|
-| [Day18](Day18)   | Gradient Descent                                                      | [CampusX](https://www.youtube.com/@campusx-official) |
-| [Day19](Day19)   | Effect of learning Rate, Cost function and Data on GD                  | [CampusX](https://www.youtube.com/@campusx-official)|
-| [Day20](Day20)   | Linear Regression with multiple features, Vectorization                | [Machine Learning Specialization]|
-| [Day21](Day21) | Feature Scaling, Visualization of Multiple Regression and Polynomial Regression | [Machine Learning Specialization]|
+| [Day04](Day04)   | Univariate Linear Regression        | [Machine Learning Specialization]|
+| [Day05](Day05)   | Bivariate and multivariate Linear Regression                          | [Machine Learning Specialization]|
+| [Day06](Day06)   | Standarization -Feature_Scaling                                                     | [Machine Learning Specialization]|
+| [Day07](Day07)   |  Normalization-min_max_scaling                                                    | [CampusX](https://www.youtube.com/@campusx-official) |
+| [Day08](Day08)   | Regression-matrix                                             | [CampusX](https://www.youtube.com/@campusx-official)|
+| [Day09](Day09)   | Ordinal-Encoding                                              | [Machine Learning Specialization]|
+| [Day10](Day10)   | One_Hot-Encoding                  | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day11](Day11)   | column-transformer                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day12](Day12)   | predict using with/without pipeline-demo                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day13](Day13)   | function-transformer              | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day14](Day14)   | automatically-select-imputer parameters         | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day15](Day15)   | missing indicator /random-sample-imputation                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day16](Day16)   | mean-median- imputation                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day17](Day17)   | frequent-value-imputation/missing-category-imputation                    | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day18](Day18)   |   knn-handling missing data                 | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day19](Day19)   | outlier-detection               | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day20](Day20)   | Feature construction-splitting              | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day21](Day21)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+
+| [Day23](Day22) | Feature Scaling, Visualization of Multiple Regression and Polynomial Regression | [Machine Learning Specialization]|
 | [Day22](Day22) | Feature Engineering, Polynomial Regression                             | [Machine Learning Specialization]|
 
 
