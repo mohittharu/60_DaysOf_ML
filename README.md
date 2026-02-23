@@ -28,8 +28,8 @@
 | [Day02](Day02)   | Decomposition, Derivation, Integration, and Gradient Descent           | [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [Day03](Day03)   | Supervised Learning, Regression and classification    definition             | [CampusX](https://www.youtube.com/watch?v=81ymPYEtFOw&t=498s)|
 | [Day04](Day04)   | Univariate Linear Regression        | [Campusx](), [Dursikshya](https://dursikshya.edu.np/)|
-| [Day05](Day05)   | Bivariate and multivariate Linear Regression                          | [Machine Learning Specialization], [Dursikshya](https://dursikshya.edu.np/),[Campusx](https://www.youtube.com/watch?v=6D3VtEfCw7w&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=21)|
-| [Day06](Day06)   | Standarization -Feature_Scaling                                                     | [Machine Learning Specialization], [Dursikshya](https://dursikshya.edu.np/),[Campusx](https://www.youtube.com/watch?v=1Yw9sC0PNwY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=24)|
+| [Day05](Day05)   | Bivariate and multivariate Linear Regression                          | [Dursikshya](https://dursikshya.edu.np/),[Campusx](https://www.youtube.com/watch?v=6D3VtEfCw7w&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=21)|
+| [Day06](Day06)   | Standarization -Feature_Scaling                                                     |[Dursikshya](https://dursikshya.edu.np/),[Campusx](https://www.youtube.com/watch?v=1Yw9sC0PNwY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=24)|
 | [Day07](Day07)   |  Normalization-min_max_scaling                                                    | [CampusX](https://www.youtube.com/@campusx-official), [Dursikshya](https://dursikshya.edu.np/) |
 | [Day08](Day08)   | Regression-matrix                                             | [CampusX](https://www.youtube.com/@campusx-official), [Dursikshya](https://dursikshya.edu.np/)|
 | [Day09](Day09)   | Ordinal-Encoding                                              | [Campusx](https://www.youtube.com/watch?v=w2GglmYHfmM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=26), [Dursikshya](https://dursikshya.edu.np/)|
