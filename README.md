@@ -44,10 +44,18 @@
 | [Day18](Day18)   |   knn-handling missing data                 | [w3Schools](https://www.w3schools.com/python/default.asp) |
 | [Day19](Day19)   | outlier-detection               | [w3Schools](https://www.w3schools.com/python/default.asp) |
 | [Day20](Day20)   | Feature construction-splitting              | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day21](Day21)   | pca (principle component analysis)                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day22](Day22)   | web scraping demo  | [Machine Learning Specialization]|
+| [Day23](Day22)   | Linear regression (m,b)                             | [Machine Learning Specialization]|
+| [Day24](Day21)   | multiple linear Regression -simple                  | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day25](Day21)   | multiple linear Regression from scratch                  | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day26-29](Day21)   | gradient discent from scratch (simple,m,b,2D,3D)                 | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day30](Day21)   | Batch - GD                  | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day31](Day21)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day32](Day21)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
 | [Day21](Day21)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
-
-| [Day23](Day22) | Feature Scaling, Visualization of Multiple Regression and Polynomial Regression | [Machine Learning Specialization]|
-| [Day22](Day22) | Feature Engineering, Polynomial Regression                             | [Machine Learning Specialization]|
+| [Day21](Day21)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day21](Day21)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
 
 
 
