@@ -51,11 +51,11 @@
 | [Day25](Day25)   | multiple linear Regression from scratch                  | [w3Schools](https://www.w3schools.com/python/default.asp), [Dursikshya](https://dursikshya.edu.np/),[Campusx](https://www.youtube.com/watch?v=ashGekqstl8&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=53) |
 | [Day26-29](Day26)   | gradient discent from scratch (simple,m,b,2D,3D)                 | [w3Schools](https://www.w3schools.com/python/default.asp), [Dursikshya](https://dursikshya.edu.np/) ,[Campusx](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=56)|
 | [Day30](Day30)   | Batch - GD                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=Jyo53pAyVAM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=57) |
-| [Day31](Day31)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
-| [Day32](Day32)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
-| [Day33](Day33)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
-| [Day34](Day34)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
-| [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day31](Day31)   | stochastic gradient descent                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=V7KBAa_gh4c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=58) |
+| [Day32](Day32)   | stochastic gradient descent animation                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=V7KBAa_gh4c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=58) |
+| [Day33](Day33)   | mini batch gradient descent                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=_scscQ4HVTY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=59) |
+| [Day34](Day34)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
 
