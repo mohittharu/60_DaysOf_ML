@@ -54,9 +54,13 @@
 | [Day31](Day31)   | stochastic gradient descent                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=V7KBAa_gh4c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=58) |
 | [Day32](Day32)   | stochastic gradient descent animation                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=V7KBAa_gh4c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=58) |
 | [Day33](Day33)   | mini batch gradient descent                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=_scscQ4HVTY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=59) |
-| [Day34](Day34)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day34](Day34)   | polynomial regression                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day35](Day35)   | cross validation                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day37](Day35)   | logistic regression                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day38](Day35)   | decision tree                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day39](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day36](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
 
