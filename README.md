@@ -56,6 +56,7 @@
 | [Day33](Day33)   | mini batch gradient descent                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=_scscQ4HVTY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=59) |
 | [Day34](Day34)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
 
