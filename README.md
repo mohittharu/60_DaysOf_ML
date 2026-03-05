@@ -127,7 +127,11 @@ Revised statistics and probability concepts. Ready for the ML Specialization cou
 - Classification and Regression:
 
 ![Classification and Regression ](images/day03_supervisedLearning.png)
-------------------------------------------------------------------------
+------------------------------------------------------------------------\
+
+
+
+==========================================================================
 
 
 
