@@ -56,11 +56,17 @@
 | [Day33](Day33)   | mini batch gradient descent                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx](https://www.youtube.com/watch?v=_scscQ4HVTY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=59) |
 | [Day34](Day34)   | polynomial regression                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day35](Day35)   | cross validation                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day37](Day35)   | logistic regression                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day38](Day35)   | decision tree                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day39](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day35](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day36](Day35)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day36](Day36)   | logistic regression                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day37](Day37)   | decision tree                    | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day38](Day38)   | Random Forest                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day39](Day39)   | Polynomial and Multiple Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day40](Day40)   | Logistic Regression using Scratch                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day41](Day41)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day42](Day42)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day43](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day44](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+
+
 
 
 
