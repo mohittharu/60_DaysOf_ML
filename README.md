@@ -61,9 +61,9 @@
 | [Day38](Day38)   | Random Forest                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day39](Day39)   | Polynomial and Multiple Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day40](Day40)   | Logistic Regression using Scratch                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day41](Day41)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day42](Day42)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day43](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day41](Day41)   | Ridge Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day42](Day42)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day43](Day40)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day44](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
