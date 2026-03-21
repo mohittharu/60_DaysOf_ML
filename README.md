@@ -66,6 +66,7 @@
 | [Day43](Day40)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day44](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day45](Day45)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day45](Day45)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
 
