@@ -66,7 +66,12 @@
 | [Day43](Day40)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day44](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day45](Day45)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+<<<<<<< HEAD
 | [Day46](Day46)   | Clustering in ML                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+=======
+| [Day45](Day45)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+
+>>>>>>> 64e0d3a4e41141f1aff15826d12a3623133aecea
 
 
 
