@@ -66,7 +66,21 @@
 | [Day43](Day40)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day44](Day40)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day45](Day45)   | ElasticNet Regression                   | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day46](Day46)   | Clustering in ML                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() 
+| [Day46](Day46)   | BaggingvsBoosting                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day47](Day47)   | SVM                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day48](Day48)   | PCA               | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day49](Day49)   | Clustering              | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day50](Day50)   | Clustering 1                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day51](Day51)   | perceptron                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day52](Day52)   | perceptron-Trick                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day53](Day53)   | Loss Function                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day54](Day54)   | Problem with perceptron                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day55](Day55)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day56](Day56)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+
+
+
 
 
 
