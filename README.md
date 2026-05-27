@@ -78,8 +78,8 @@
 | [Day55](Day55)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day56](Day56)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-
-
+| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
 
