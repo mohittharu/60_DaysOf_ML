@@ -75,12 +75,12 @@
 | [Day52](Day52)   | perceptron-Trick                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day53](Day53)   | Loss Function                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day54](Day54)   | Problem with perceptron                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day55](Day55)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day56](Day56)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day55](Day55)   | Multi-Layer Perceptron                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day56](Day56)   | Forward Propagation                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+
 
 
 
