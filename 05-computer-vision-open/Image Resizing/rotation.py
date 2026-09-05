@@ -1,0 +1,24 @@
+import cv2
+
+image = cv2.imread("mohit.png")
+
+if image is None:
+    print("Image not found or unable to load.")
+
+else:
+    print("Image loaded successfully.")
+
+    (h, w) = image.shape[:2]
+    center = (w // 2, h // 2)
+
+    angle = 45
+    scale = 1.0
+
+    rotation_matrix = cv2.getRotationMatrix2D(center, angle, scale)
+    rotated_image = cv2.warpAffine(image, rotation_matrix, (w, h))
+
+    cv2.imshow("Original Image", image)
+    cv2.imshow("Rotated Image", rotated_image)
+
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
