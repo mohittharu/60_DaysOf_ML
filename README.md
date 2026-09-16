@@ -77,9 +77,12 @@
 | [Day54](Day54)   | Problem with perceptron                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day55](Day55)   | Multi-Layer Perceptron                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day56](Day56)   | Forward Propagation                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
-| [Day57](Day57)   | Lasso Regression                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day57](Day57)   | Building single neural network                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day58](Day58)   | Neural network -changing weight                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day57](Day59)   | Activation Function                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day60](Day60)   | RELU                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day61](Day61)   | Sigmoid                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day62](Day62)   | Tanh function                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 
 
 
