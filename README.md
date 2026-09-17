@@ -83,6 +83,12 @@
 | [Day60](Day60)   | RELU                | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day61](Day61)   | Sigmoid                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
 | [Day62](Day62)   | Tanh function                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day62](Day63)   | softmax                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day62](Day64)   | practice activation function                 | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day62](Day65)   | Tanh function                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day62](Day66)   | Tanh function                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+| [Day62](Day62)   | Tanh function                  | [w3Schools](https://www.w3schools.com/python/default.asp),[Campusx]() |
+
 
 
 
